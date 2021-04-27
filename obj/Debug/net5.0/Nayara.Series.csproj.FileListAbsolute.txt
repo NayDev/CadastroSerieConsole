@@ -1,0 +1,16 @@
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series.deps.json
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series.runtimeconfig.json
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series.runtimeconfig.dev.json
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series.dll
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/ref/Nayara.Series.dll
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/bin/Debug/net5.0/Nayara.Series.pdb
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.csprojAssemblyReference.cache
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.AssemblyInfoInputs.cache
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.AssemblyInfo.cs
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.csproj.CoreCompileInputs.cache
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.dll
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/ref/Nayara.Series.dll
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.pdb
+/home/nayara/Área de Trabalho/estudoNet/Nayara.Series/obj/Debug/net5.0/Nayara.Series.genruntimeconfig.cache
